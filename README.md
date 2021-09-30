@@ -2,8 +2,10 @@
 
 I'm Rod. I code.
 
-I enjoy building teams, distributed software and edge computing.
+I enjoy building teams.
 
-You can find my not really well maintained blog at rod.codes
+Research and development interests focus on distributed software, observability and edge computing.
+
+You can find my not really well maintained blog at https://rod.codes
 
 You can visit my LinkedIn at https://www.linkedin.com/in/rodneyhawkins/
